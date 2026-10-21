@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Hayley Yoshikawa
 
-<!--
-**hayyosh/hayyosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics + Informatics student at the University of Washington, interested in
+sports analytics, predictive modeling, and applied statistics.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Maternal Literacy & Child Mortality in Peru](https://github.com/hayyosh/Peru-Maternal-Literacy-Child-Mortality)** (R): survey-weighted OLS on 2017 census microdata
+
+## Skills
+
+Python (pandas, scikit-learn, matplotlib) · R · JavaScript/React · Git · Figma
+
+## Contact
+
+[hay.yoshikawa@gmail.com] · [www.linkedin.com/in/hayleyyoshikawa]
+
