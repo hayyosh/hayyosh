@@ -1,7 +1,7 @@
 ## Hi, I'm Hayley Yoshikawa
 
 Economics + Informatics student at the University of Washington, interested in
-sports analytics, predictive modeling, and applied statistics.
+analytics, predictive modeling, and applied statistics.
 
 ## Projects
 
