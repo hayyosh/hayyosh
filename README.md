@@ -13,6 +13,7 @@ and user research.
 ## Skills
 
 **Programming & Analytics:** Python (pandas, scikit-learn, matplotlib) · R · JavaScript/React · Git
+
 **UX/UI & Research:** Figma · User research · Personas · Rapid prototyping (Lovable)
 
 ## Contact
