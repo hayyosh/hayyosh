@@ -10,7 +10,7 @@ and user research.
 - **[Maternal Literacy & Child Mortality in Peru](https://github.com/hayyosh/Peru-Maternal-Literacy-Child-Mortality)** (R): survey-weighted OLS on 2017 census microdata
 - **[UW Study Spot Finder](https://github.com/hayyosh/Study-Spots-UW)** (User research, Lovable): team of 5; wrote the problem statement and defined filter features from persona-based user needs for a UW study-space finder prototype.
 - **[Better Gardens](https://github.com/hayyosh/Better-Gardens-Prototype)** (Figma, UX research): team of 5; developed user personas and applied their needs to a high-fidelity prototype, then iterated on it using usability test feedback from 5 participants
-- **[Windtech Drone Fleet Management System](https://github.com/hayyosh/Windtech-Drone-Fleet-Management-System)** (Systems analysis, Figma): team of 5; designed the real-time monitoring dashboard and contributed to the data flow model, analysis, and solution design for a drone-based wind turbine inspection system
+- **[Windtech Drone Fleet Management System](https://github.com/hayyosh/Drone-Fleet-Management-System)** (Systems analysis, Figma): team of 5; designed the real-time monitoring dashboard and contributed to the data flow model, analysis, and solution design for a drone-based wind turbine inspection system
 
 ## Skills
 
